@@ -1,0 +1,15 @@
+/storage/sessions/*
+!/storage/sessions/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/storage/payment_proofs/*
+!/storage/payment_proofs/.gitkeep
+/storage/backups/*
+!/storage/backups/.gitkeep
+.env
+.env.*
+!.env.example
+config/local.php
+*.log

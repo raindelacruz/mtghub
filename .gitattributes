@@ -1,0 +1,1 @@
+storage/scryfall/default_cards.json filter=lfs diff=lfs merge=lfs -text
