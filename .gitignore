@@ -13,3 +13,4 @@
 !.env.example
 config/local.php
 *.log
+~$*.docx
